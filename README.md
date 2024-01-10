@@ -1,4 +1,4 @@
-# Firewall-Palo-Alto
+# Firewall Palo Alto
 Obtén la máxima seguridad y rendimiento con cortafuegos de nueva generación con aprendizaje automático. Protección completa con firewall palo alto desde sucursales hasta la nube.
 Las herramientas de defensa GlobalProtect Palo Alto y su NGFW protegen a empresas de todos los tamaños y niveles de complejidad. Con su protección unificada y aprendizaje profundo en tiempo real, garantizan una protección total para tu negocio.
 
